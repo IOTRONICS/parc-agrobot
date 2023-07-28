@@ -20,11 +20,11 @@ This is the repository that combines the power of ROS (Robot Operating System), 
 
 ## Installation
 
-1. Install ROS Kinetic or newer. Follow the official ROS installation guide: [ROS Installation Guide](https://wiki.ros.org/ROS/Installation)
+1. Install ROS Noetic or newer. Follow the official ROS installation guide: [ROS Installation Guide](https://wiki.ros.org/ROS/Installation)
 
 2. Install Matlab and required toolboxes for data analysis and machine learning.
 
-3. Install Python 3 and required libraries. It is recommended to use a virtual environment:
+3. Install Python 3 and the required libraries. It is recommended to use a Linux environment Ubuntu preferably:
 
    ```bash
    python3 -m venv venv
@@ -73,4 +73,4 @@ parc-agrobot is released under the [MIT License](LICENSE).
 
 ---
 
-Together, let's cultivate smarter, sustainable, and more productive agriculture with parc-agrobot. Happy farming! 🚜🌾
+Together, let's cultivate smarter, more sustainable, and more productive agriculture with parc-agrobot. Happy farming! 🚜🌾
